@@ -1,0 +1,34 @@
+body {
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+h1 {
+    color: #484A47; /*Outer Space*/
+}
+p1 {
+    color: #10525e; /*Color Spectrum*/ 
+}
+#headers {
+    background-color: #E88873; /*Salmon*/
+    padding: 20px;
+    border-radius: 10px;
+}
+#heading {
+    background-color: #E0AC9D; /*Melon*/
+    padding: 30px;
+    border-radius: 20px;
+    border: #484A47;
+}
+#body {
+    background-color: #A37774; /*Old Rose*/
+    padding: 30px;
+    border-radius: 20px;
+    border: #5C6D70; /*Payne's Gray*/
+}
+input {
+    color: #E08674; /*Dark Salmon*/
+    background-color: #807272; /*Cinereous*/
+}
+
